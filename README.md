@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Im a Computer Scientist and a Philosopher currently studying at sfu.
+
+🔭 I’m currently working on replay file analysis of StarCraft 2
+🌱 I’m currently learning Computational Linguistics
+
+
+
+
 <!--
 **sleepyloris/sleepyloris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
