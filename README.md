@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Im a Computer Scientist and a Philosopher currently studying at sfu.
+Im a Cognitive Scientist studying at sfu. Within my area I focus on Computer Science and Philosophy.
 
-🔭 I’m currently working on replay file analysis of StarCraft 2
-🌱 I’m currently learning Computational Linguistics
+- 🔭 Working on replay file analysis of StarCraft 2
+- ⚡ Fun fact: 
 
-
+- 📫 How to reach me: email me!
 
 
 <!--
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
+
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
