@@ -3,7 +3,8 @@
 Im a Cognitive Scientist studying at sfu. Within my area I focus on Computer Science and Philosophy.
 
 - 🔭 Working on replay file analysis of StarCraft 2
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I play the guitar :) 
+
 
 - 📫 How to reach me: email me!
 
