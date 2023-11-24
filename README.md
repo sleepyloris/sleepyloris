@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Im a Cognitive Scientist studying at SFU. Within my area I focus on Computer Science and Philosophy.
+Computer scientist & Philosopher
 
-- 🔭 I'm currently working on a case study with StarCraft 2 replay file analysis of StarCraft 2 
+- 🔭 Working on: CSGO Data Analysis
 - ⚡ Fun fact: I play the guitar :) 
 
 
