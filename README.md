@@ -3,7 +3,7 @@
 Philosopher And Computer Scientist
 
 -  🔭 I’m currently working on: CSGO Data Analysis & VR Mind Palace for learning Hanzi
-- 💬 Ask me about
+- 💬 Ask me about metaphysics
 - ⚡ Fun fact: I play the guitar :) 
 
 
