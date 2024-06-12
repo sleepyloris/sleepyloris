@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello 👋
 
 Philosopher And Computer Scientist
 
