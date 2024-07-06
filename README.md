@@ -1,6 +1,6 @@
 # Hello 👋
 
-Computer Scientist and Philosopher
+MSc Cognitive Science Student.
 
 -  🔭 I’m currently working on: CSGO Data Analysis & VR Mind Palace for learning Hanzi
 - 💬 Ask me about Metaphysics
