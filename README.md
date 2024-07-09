@@ -1,16 +1,16 @@
 # Hello 👋
 
-MSc Cognitive Science Student.
-
--  🔭 I’m currently working on: CSGO Data Analysis & VR Mind Palace for learning Hanzi
-- 💬 Ask me about Metaphysics
-- ⚡ Fun fact: I play the guitar :) 
-
-
+- 🔭 I’m currently working on a CSGO Data Analysis 
 - 📫 How to reach me: email me!
+
+Languages: C, C++, Python, Haskell, NodeJS, Scala, Javascript
+
 
 
 <!--
+
+& VR Mind Palace for learning Hanzi
+
 **sleepyloris/sleepyloris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
