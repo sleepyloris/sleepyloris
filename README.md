@@ -1,6 +1,6 @@
 # Hello 👋
 
-- 🔭 I’m currently working on a CSGO Data Analysis 
+- 🔭 I’m currently working on a Counter Strike 2 - Replay Analysis Engine 
 - 📫 How to reach me: email me!
 
 Languages: C, C++, Python, Haskell, NodeJS, Scala, Javascript
