@@ -1,9 +1,9 @@
 # Hello 👋
 
-- 🔭 I’m currently working on a Counter Strike 2 - Replay Analysis Engine 
+- 🔭 I’m currently working on a Counter Strike 2 Replay Analysis Engine 
 - 📫 How to reach me: email me!
 
-Languages: C, C++, Python, Haskell, NodeJS, Scala, Javascript
+Languages: C, C++, Python, Haskell, Scala
 
 
 
