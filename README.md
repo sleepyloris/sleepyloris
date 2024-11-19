@@ -5,6 +5,13 @@
 
 Languages: C, C++, Python, Haskell, Scala
 
+<!--
+
+Programmer, . Interested in
+
+
+Clean Code
+
 
 
 <!--
