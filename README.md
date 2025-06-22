@@ -2,7 +2,7 @@
 
 - 🔬 My areas of interest are Machine Learning, Cognitive Science, 
 - 🔭 I’m currently working on a Counter Strike 2 Quantitative Analysis Engine 
-- 📫 You can reach me @ [mgiles.dev](https://www.mgiles.dev) !
+- 📫 You can reach me @ [mgiles.dev](https://mgiles.dev) !
 
 Programming Languages: C, C++, Python, Haskell, Scala
 
