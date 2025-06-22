@@ -1,5 +1,4 @@
 - Hello 👋, I'm Mark (@Sleepyloris) 
-
 - 🔬 My areas of interest are Machine Learning, Cognitive Science, 
 - 🔭 I’m currently working on a Counter Strike 2 Quantitative Analysis Engine 
 - 📫 You can reach me @ [mgiles.dev](https://mgiles.dev) !
