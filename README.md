@@ -1,6 +1,9 @@
 - Hello 👋, I'm Mark (@Sleepyloris) 
 - 🔬 My areas of interest are Machine Learning, Cognitive Science, 
-- 🔭 I’m currently working on a Counter Strike 2 Quantitative Analysis Engine 
+- 🔭 I’m currently working on
+  - Counter Strike 2 Quantitative Analysis Engine 
+  - VR Mind Palace for Learning Hanzi
+- 🌱 I’m currently learning Sveltekit
 - 📫 You can reach me @ [mgiles.dev](https://mgiles.dev) !
 
 Programming Languages: C, C++, Python, Haskell, Scala
