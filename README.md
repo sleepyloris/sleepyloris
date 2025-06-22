@@ -1,18 +1,16 @@
-# Hello 👋
+- Hello 👋, I'm Mark (@Sleepyloris) 
 
-- 🔭 I’m currently working on a Counter Strike 2 Replay Analysis Engine 
-- 📫 How to reach me: email me!
+- 🔬 My areas of interest are Machine Learning, Cognitive Science, 
+- 🔭 I’m currently working on a Counter Strike 2 Quantitative Analysis Engine 
+- 📫 How to reach me: [mgiles.dev](mgiles.dev) !
 
-Languages: C, C++, Python, Haskell, Scala
+Programming Languages: C, C++, Python, Haskell, Scala
 
 <!--
 
 Programmer, . Interested in
 
-
 Clean Code
-
-
 
 <!--
 
